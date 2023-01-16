@@ -1,0 +1,15 @@
+E:\Обучение\Home\Home_work4\bin\Debug\net6.0\Home_work4.exe
+E:\Обучение\Home\Home_work4\bin\Debug\net6.0\Home_work4.deps.json
+E:\Обучение\Home\Home_work4\bin\Debug\net6.0\Home_work4.runtimeconfig.json
+E:\Обучение\Home\Home_work4\bin\Debug\net6.0\Home_work4.dll
+E:\Обучение\Home\Home_work4\bin\Debug\net6.0\Home_work4.pdb
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.csproj.AssemblyReference.cache
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.AssemblyInfoInputs.cache
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.AssemblyInfo.cs
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.csproj.CoreCompileInputs.cache
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.dll
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\refint\Home_work4.dll
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.pdb
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\Home_work4.genruntimeconfig.cache
+E:\Обучение\Home\Home_work4\obj\Debug\net6.0\ref\Home_work4.dll
